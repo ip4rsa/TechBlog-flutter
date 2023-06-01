@@ -1,6 +1,6 @@
 # techblog
 
-A new Flutter project.
+techblog-application. Publish articles and podcasts related to technology.
 
 ## Getting Started
 
