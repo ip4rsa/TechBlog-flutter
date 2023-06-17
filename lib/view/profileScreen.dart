@@ -115,7 +115,7 @@ class profileScreen extends StatelessWidget {
                   splashColor: solidcolors.primeryColor,
                   borderRadius: BorderRadius.all(Radius.circular(10)),
                   onTap: () {
-                    // غمل کلیک
+                   
                   },
                   child: SizedBox(
                     height: 45,
