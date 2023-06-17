@@ -2,8 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:techblog/_myColors.dart';
 import 'package:techblog/_mySrtings.dart';
-// ignore_for_file: deprecated_member_use
-// import 'package:techblog/model/fakeData.dart';
+
 
 class profileScreen extends StatelessWidget {
   const profileScreen({
