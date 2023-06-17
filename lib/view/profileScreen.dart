@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:techblog/_myColors.dart';
 import 'package:techblog/_mySrtings.dart';
 
-
+ 
 class profileScreen extends StatelessWidget {
   const profileScreen({
     super.key,
