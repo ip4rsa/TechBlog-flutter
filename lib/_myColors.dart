@@ -15,7 +15,7 @@ class solidcolors {
   static const Color statusBarcolor = Color.fromARGB(255, 250, 250, 250);
   static const Color dividerCoror = Color.fromARGB(255, 112, 112, 112);
 }
-
+ 
 class gradiantColors {
   static const List<Color> bottmNav = [
     const Color.fromARGB(255, 25, 0, 94),
