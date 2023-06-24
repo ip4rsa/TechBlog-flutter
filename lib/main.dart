@@ -6,7 +6,6 @@ import 'package:techblog/_myColors.dart';
 import 'package:techblog/view/_Splashscrn.dart';
 // import 'package:techblog/view/_Splashscrn.dart';
 // import 'package:techblog/view/goToLogin.dart';
-// import 'package:techblog/gen/assets.gen.dart';
 
 void main() {
   SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
