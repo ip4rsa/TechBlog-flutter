@@ -6,7 +6,7 @@ import 'package:techblog/_myColors.dart';
 import 'package:techblog/view/_Splashscrn.dart';
 // import 'package:techblog/view/_Splashscrn.dart';
 // import 'package:techblog/view/goToLogin.dart';
-
+ 
 void main() {
   SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
       statusBarColor: solidcolors.statusBarcolor,
