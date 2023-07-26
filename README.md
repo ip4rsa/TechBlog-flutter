@@ -2,6 +2,9 @@
 
 techblog-application. Publish articles and podcasts related to technology.
 
+## screen shot
+![Screenshot 2023-07-26 145818](https://github.com/ip4rsa/Cars-gallery-flutter/assets/117844346/970c095d-b201-45cb-a344-8c832f1f5619)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
